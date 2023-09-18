@@ -29,8 +29,6 @@ The transition probabilities for each action are as follows:
 
 For example, if the agent is in state S and takes the "R" action, then there is a 50% chance that it will move to state 4, a 33.33% chance that it will stay in state S, and a 16.66% chance that it will move to state 2.
 
-</br></br></br>
-
 ### Rewards
 
 The agent receives a reward of +1 for reaching the goal state (G). The agent receives a reward of 0 for all other states.
